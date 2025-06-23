@@ -91,7 +91,7 @@ export default function CinemaPortfolio() {
                     </p>
                     <p className="text-sm">
                       With over 5 years of experience in full-stack development, I specialize in creating immersive web
-                      applications that push the boundaries of what's possible.
+                      applications that push the boundaries of what&apos;s possible.
                     </p>
                   </div>
                   <div className="grid grid-cols-2 gap-4 mt-6">
@@ -183,10 +183,10 @@ export default function CinemaPortfolio() {
           <div className="relative w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 flex items-center justify-center">
             <div className="text-center space-y-6 max-w-xl mx-auto px-6">
               <div className="space-y-3">
-                <h2 className="text-3xl font-thin text-gray-800 tracking-wider uppercase">Let's Connect</h2>
+                <h2 className="text-3xl font-thin text-gray-800 tracking-wider uppercase">Let&apos;s Connect</h2>
                 <div className="w-12 h-px bg-gray-400 mx-auto" />
                 <p className="text-base text-gray-700 leading-relaxed">
-                  Ready to bring your vision to life? Let's create something extraordinary together.
+                  Ready to bring your vision to life? Let&apos;s create something extraordinary together.
                 </p>
               </div>
 
